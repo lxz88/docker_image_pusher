@@ -2,4 +2,6 @@
 #bitnami/os-shell:12-debian-12-r39
 #bitnami/apache-exporter:1.0.9-debian-12-r17
 #bitnami/mariadb:11.4.5-debian-12-r4
-bitnami/mysqld-exporter:0.16.0-debian-12-r10
+#bitnami/mysqld-exporter:0.16.0-debian-12-r10
+bitnami/apache-exporter:1.0.9-debian-12-r17
+
