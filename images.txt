@@ -1,2 +1,2 @@
 bitnami/wordpress:6.8.1-debian-12-r0
-bitnami/mariad:11.4.5-debian-12-r12
+bitnami/mariadb:11.4.5-debian-12-r12
