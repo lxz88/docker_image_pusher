@@ -1,1 +1,1 @@
-ghcr.io/tapdata/tapdata:latest
+registry
