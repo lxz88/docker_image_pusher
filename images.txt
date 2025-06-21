@@ -1,4 +1,1 @@
-docker.io/kubernetesui/dashboard-auth:1.3.0
-docker.io/kubernetesui/dashboard-api:1.13.0
-docker.io/kubernetesui/dashboard-web:1.7.0
-docker.io/kubernetesui/dashboard-metrics-scraper:1.2.2
+kong
