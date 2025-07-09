@@ -1,1 +1,1 @@
-rockylinux/rockylinux:8.9
+docker.io/library/rockylinux:8.5
