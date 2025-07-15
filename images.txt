@@ -1,1 +1,1 @@
-docker.io/library/rockylinux:8.5
+yauritux/busybox-curl:latest
