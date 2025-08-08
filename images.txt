@@ -1,1 +1,1 @@
-yauritux/busybox-curl:latest
+metrics-server:v0.6.4 
