@@ -1,1 +1,1 @@
-yauritux/busybox-curl:latest
+wordpress:6.8.2
