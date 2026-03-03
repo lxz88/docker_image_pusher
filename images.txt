@@ -1,1 +1,3 @@
-adoptopenjdk/openjdk8
+prom/prometheus:latest
+prom/node-exporter:latest
+grafana/grafana
