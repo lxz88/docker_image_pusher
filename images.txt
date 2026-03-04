@@ -1,1 +1,1 @@
-prom/mysqld-exporter
+prom/alertmanager:latest
