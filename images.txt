@@ -1,1 +1,1 @@
-prom/alertmanager:latest
+registry.aliyuncs.com/google_containers/pause:3.10
