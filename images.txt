@@ -1,3 +1,2 @@
-quay.io/calico/cni:v3.31.4
-quay.io/calico/node:v3.31.4
-quay.io/calico/kube-controllers:v3.31.4
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.8@sha256:d7e8257f8d8bce64b6df55f81fba92011a6a77269b3350f8b997b152af348dba
+registry.k8s.io/ingress-nginx/controller:v1.15.0@sha256:4eea9a4cc2cb6ddcb7da14d377aaf452e68bd3dbe87fe280755d225c4d5e7e4e
