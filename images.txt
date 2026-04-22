@@ -1,2 +1,1 @@
-#quay.io/prometheus/node-exporter:v1.8.2
-muccg/devpi
+jenkins:2.60.3
