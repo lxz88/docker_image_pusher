@@ -1,1 +1,1 @@
-quay.io/prometheus/alertmanager:v0.28.1
+registry.k8s.io/metrics-server/metrics-server:v0.8.1
