@@ -1,1 +1,1 @@
-eclipse-temurin:17-jre
+nginx:1.30.4
