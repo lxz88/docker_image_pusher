@@ -1,2 +1,1 @@
-ghcr.io/flannel-io/flannel-cni-plugin:v1.9.1-flannel2
-ghcr.io/flannel-io/flannel:v0.28.8
+nvcr.io/nvidia/k8s-device-plugin:v0.17.1
