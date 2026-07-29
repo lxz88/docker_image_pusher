@@ -1,1 +1,1 @@
-nvcr.io/nvidia/k8s-device-plugin:v0.17.1
+ ghcr.io/open-webui/open-webui:main
