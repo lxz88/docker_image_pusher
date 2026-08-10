@@ -1,1 +1,1 @@
-grafana/grafana
+swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/nvidia/dcgm-exporter:4.5.2-4.8.1-distroless
