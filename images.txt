@@ -1,2 +1,2 @@
-my-flask-app:latest
-redis:6-alpine
+elizaveta07/my-flask-app:latest
+redis:7.2-alpine
