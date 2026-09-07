@@ -1,1 +1,2 @@
-nginx:alpine
+my-flask-app:latest
+redis:6-alpine
