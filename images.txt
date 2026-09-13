@@ -1,1 +1,1 @@
-python:3.12
+wordpress:php8.5-fpm
