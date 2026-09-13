@@ -1,1 +1,1 @@
-portainer/portainer-ce:latest
+6053537/portainer-ce
