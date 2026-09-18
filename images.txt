@@ -1,2 +1,1 @@
-golang:1.14.4-alpine
-alpine:3.12
+nginx:alpine
