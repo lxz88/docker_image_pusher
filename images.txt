@@ -1,1 +1,1 @@
-rockylinux:9.5
+rockylinux/rockylinux:9.8
