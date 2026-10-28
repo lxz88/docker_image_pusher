@@ -1,1 +1,1 @@
-rockylinux/rockylinux:9.8
+rockylinux:9.3-minimal
