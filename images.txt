@@ -1,1 +1,1 @@
-rockylinux:9.3-minimal
+jenkins:2.60.3
